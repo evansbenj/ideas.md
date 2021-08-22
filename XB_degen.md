@@ -5,3 +5,9 @@
 * If new data, could add samples from SE Kenya near Kilimanjaro
 * Drawback: best case scenario would include analysis of a family from west Kenya.
 * Could use RADseq data to test whether west is fixed for W
+
+# mapped RADseq data
+evanslab:
+```
+/scratch/evanslab/2019_RADseq_KenyaXBXL_GhanaEastfamily/plate1/genotyped/mpileup_raw_justBorealis_allChrs.vcf.gz
+```
